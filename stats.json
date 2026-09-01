@@ -1,22 +1,24 @@
 {
-  "totalSolved": 1,
-  "currentStreak": 1,
-  "maxStreak": 1,
-  "lastSyncDate": "2026-08-31",
+  "totalSolved": 2,
+  "currentStreak": 2,
+  "maxStreak": 2,
+  "lastSyncDate": "2026-09-01",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 0,
+    "easy": 1,
     "medium": 1,
     "hard": 0,
     "basic": 0
   },
   "syncedProblems": {
-    "LeetCode_Binary_Tree_Level_Order_Traversal": true
+    "LeetCode_Binary_Tree_Level_Order_Traversal": true,
+    "LeetCode_Concatenation_of_Array": true
   },
   "activityHistory": {
-    "2026-08-31": 1
+    "2026-08-31": 1,
+    "2026-09-01": 1
   },
   "todayProblems": [
-    "Binary Tree Level Order Traversal"
+    "Concatenation of Array"
   ]
 }
