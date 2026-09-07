@@ -5,3 +5,4 @@
 | 3 | [Add Two Numbers](./LeetCode/Medium/Add%20Two%20Numbers) | [LeetCode](https://leetcode.com/problems/add-two-numbers/) | Medium | 03 Sept 2026 | 07:37 pm |
 | 4 | [Median of Two Sorted Arrays](./LeetCode/Hard/Median%20of%20Two%20Sorted%20Arrays) | [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | 05 Sept 2026 | 06:29 pm |
 | 5 | [Reverse Integer](./LeetCode/Medium/Reverse%20Integer) | [LeetCode](https://leetcode.com/problems/reverse-integer/) | Medium | 06 Sept 2026 | 07:50 pm |
+| 6 | [Sort an Array](./LeetCode/Medium/Sort%20an%20Array) | [LeetCode](https://leetcode.com/problems/sort-an-array/) | Medium | 07 Sept 2026 | 06:35 pm |
