@@ -1,11 +1,11 @@
 {
-  "totalSolved": 8,
+  "totalSolved": 9,
   "currentStreak": 5,
   "maxStreak": 5,
   "lastSyncDate": "2026-09-09",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 2,
+    "easy": 3,
     "medium": 5,
     "hard": 1,
     "basic": 0
@@ -18,7 +18,8 @@
     "LeetCode_Reverse_Integer": true,
     "LeetCode_Sort_an_Array": true,
     "LeetCode_Sort_Colors": true,
-    "LeetCode_Design_HashMap": true
+    "LeetCode_Design_HashMap": true,
+    "LeetCode_Design_HashSet": true
   },
   "activityHistory": {
     "2026-08-31": 1,
@@ -28,9 +29,10 @@
     "2026-09-06": 1,
     "2026-09-07": 1,
     "2026-09-08": 1,
-    "2026-09-09": 1
+    "2026-09-09": 2
   },
   "todayProblems": [
-    "Design HashMap"
+    "Design HashMap",
+    "Design HashSet"
   ]
 }

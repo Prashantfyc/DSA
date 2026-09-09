@@ -8,3 +8,4 @@
 | 6 | [Sort an Array](./LeetCode/Medium/Sort%20an%20Array) | [LeetCode](https://leetcode.com/problems/sort-an-array/) | Medium | 07 Sept 2026 | 06:35 pm |
 | 7 | [Sort Colors](./LeetCode/Medium/Sort%20Colors) | [LeetCode](https://leetcode.com/problems/sort-colors/) | Medium | 08 Sept 2026 | 06:19 pm |
 | 8 | [Design HashMap](./LeetCode/Easy/Design%20HashMap) | [LeetCode](https://leetcode.com/problems/design-hashmap/) | Easy | 09 Sept 2026 | 06:42 pm |
+| 9 | [Design HashSet](./LeetCode/Easy/Design%20HashSet) | [LeetCode](https://leetcode.com/problems/design-hashset/) | Easy | 09 Sept 2026 | 06:52 pm |
