@@ -9,3 +9,4 @@
 | 7 | [Sort Colors](./LeetCode/Medium/Sort%20Colors) | [LeetCode](https://leetcode.com/problems/sort-colors/) | Medium | 08 Sept 2026 | 06:19 pm |
 | 8 | [Design HashMap](./LeetCode/Easy/Design%20HashMap) | [LeetCode](https://leetcode.com/problems/design-hashmap/) | Easy | 09 Sept 2026 | 06:42 pm |
 | 9 | [Design HashSet](./LeetCode/Easy/Design%20HashSet) | [LeetCode](https://leetcode.com/problems/design-hashset/) | Easy | 09 Sept 2026 | 06:52 pm |
+| 10 | [Same Tree](./LeetCode/Easy/Same%20Tree) | [LeetCode](https://leetcode.com/problems/same-tree/) | Easy | 10 Sept 2026 | 10:34 am |
