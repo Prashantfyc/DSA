@@ -1,12 +1,12 @@
 {
-  "totalSolved": 11,
+  "totalSolved": 12,
   "currentStreak": 1,
   "maxStreak": 6,
-  "lastSyncDate": "2026-09-15",
+  "lastSyncDate": "2026-09-18",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 5,
+    "medium": 6,
     "hard": 1,
     "basic": 0
   },
@@ -21,7 +21,8 @@
     "LeetCode_Design_HashMap": true,
     "LeetCode_Design_HashSet": true,
     "LeetCode_Same_Tree": true,
-    "LeetCode_Move_Zeroes": true
+    "LeetCode_Move_Zeroes": true,
+    "LeetCode_Letter_Combinations_of_a_Phone_Number": true
   },
   "activityHistory": {
     "2026-08-31": 1,
@@ -33,9 +34,10 @@
     "2026-09-08": 1,
     "2026-09-09": 2,
     "2026-09-10": 1,
-    "2026-09-15": 1
+    "2026-09-15": 1,
+    "2026-09-18": 1
   },
   "todayProblems": [
-    "Move Zeroes"
+    "Letter Combinations of a Phone Number"
   ]
 }

@@ -11,3 +11,4 @@
 | 9 | [Design HashSet](./LeetCode/Easy/Design%20HashSet) | [LeetCode](https://leetcode.com/problems/design-hashset/) | Easy | 09 Sept 2026 | 06:52 pm |
 | 10 | [Same Tree](./LeetCode/Easy/Same%20Tree) | [LeetCode](https://leetcode.com/problems/same-tree/) | Easy | 10 Sept 2026 | 10:34 am |
 | 11 | [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) | [LeetCode](https://leetcode.com/problems/move-zeroes/) | Easy | 15 Sept 2026 | 08:20 pm |
+| 12 | [Letter Combinations of a Phone Number](./LeetCode/Medium/Letter%20Combinations%20of%20a%20Phone%20Number) | [LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | 18 Sept 2026 | 03:12 pm |
