@@ -1,12 +1,12 @@
 {
-  "totalSolved": 12,
-  "currentStreak": 1,
+  "totalSolved": 13,
+  "currentStreak": 2,
   "maxStreak": 6,
-  "lastSyncDate": "2026-09-18",
+  "lastSyncDate": "2026-09-19",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 6,
+    "medium": 7,
     "hard": 1,
     "basic": 0
   },
@@ -22,7 +22,8 @@
     "LeetCode_Design_HashSet": true,
     "LeetCode_Same_Tree": true,
     "LeetCode_Move_Zeroes": true,
-    "LeetCode_Letter_Combinations_of_a_Phone_Number": true
+    "LeetCode_Letter_Combinations_of_a_Phone_Number": true,
+    "LeetCode_Longest_Palindromic_Substring": true
   },
   "activityHistory": {
     "2026-08-31": 1,
@@ -35,9 +36,10 @@
     "2026-09-09": 2,
     "2026-09-10": 1,
     "2026-09-15": 1,
-    "2026-09-18": 1
+    "2026-09-18": 1,
+    "2026-09-19": 1
   },
   "todayProblems": [
-    "Letter Combinations of a Phone Number"
+    "Longest Palindromic Substring"
   ]
 }

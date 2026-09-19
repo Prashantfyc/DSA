@@ -12,3 +12,4 @@
 | 10 | [Same Tree](./LeetCode/Easy/Same%20Tree) | [LeetCode](https://leetcode.com/problems/same-tree/) | Easy | 10 Sept 2026 | 10:34 am |
 | 11 | [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) | [LeetCode](https://leetcode.com/problems/move-zeroes/) | Easy | 15 Sept 2026 | 08:20 pm |
 | 12 | [Letter Combinations of a Phone Number](./LeetCode/Medium/Letter%20Combinations%20of%20a%20Phone%20Number) | [LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | 18 Sept 2026 | 03:12 pm |
+| 13 | [Longest Palindromic Substring](./LeetCode/Medium/Longest%20Palindromic%20Substring) | [LeetCode](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | 19 Sept 2026 | 04:52 pm |
