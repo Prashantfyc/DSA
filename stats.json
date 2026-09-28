@@ -1,11 +1,11 @@
 {
-  "totalSolved": 15,
-  "currentStreak": 2,
+  "totalSolved": 16,
+  "currentStreak": 1,
   "maxStreak": 6,
-  "lastSyncDate": "2026-09-25",
+  "lastSyncDate": "2026-09-28",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 6,
+    "easy": 7,
     "medium": 8,
     "hard": 1,
     "basic": 0
@@ -25,7 +25,8 @@
     "LeetCode_Letter_Combinations_of_a_Phone_Number": true,
     "LeetCode_Longest_Palindromic_Substring": true,
     "LeetCode_Remove_Outermost_Parentheses": true,
-    "LeetCode_String_to_Integer_(atoi)": true
+    "LeetCode_String_to_Integer_(atoi)": true,
+    "LeetCode_Majority_Element": true
   },
   "activityHistory": {
     "2026-08-31": 1,
@@ -41,9 +42,10 @@
     "2026-09-18": 1,
     "2026-09-19": 1,
     "2026-09-24": 1,
-    "2026-09-25": 1
+    "2026-09-25": 1,
+    "2026-09-28": 1
   },
   "todayProblems": [
-    "String to Integer (atoi)"
+    "Majority Element"
   ]
 }

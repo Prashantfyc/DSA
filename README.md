@@ -15,3 +15,4 @@
 | 13 | [Longest Palindromic Substring](./LeetCode/Medium/Longest%20Palindromic%20Substring) | [LeetCode](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | 19 Sept 2026 | 04:52 pm |
 | 14 | [Remove Outermost Parentheses](./LeetCode/Easy/Remove%20Outermost%20Parentheses) | [LeetCode](https://leetcode.com/problems/remove-outermost-parentheses/) | Easy | 24 Sept 2026 | 07:28 pm |
 | 15 | [String to Integer (atoi)](./LeetCode/Medium/String%20to%20Integer%20(atoi)) | [LeetCode](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | 25 Sept 2026 | 06:22 pm |
+| 16 | [Majority Element](./LeetCode/Easy/Majority%20Element) | [LeetCode](https://leetcode.com/problems/majority-element/) | Easy | 28 Sept 2026 | 10:35 pm |
