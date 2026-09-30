@@ -16,3 +16,4 @@
 | 14 | [Remove Outermost Parentheses](./LeetCode/Easy/Remove%20Outermost%20Parentheses) | [LeetCode](https://leetcode.com/problems/remove-outermost-parentheses/) | Easy | 24 Sept 2026 | 07:28 pm |
 | 15 | [String to Integer (atoi)](./LeetCode/Medium/String%20to%20Integer%20(atoi)) | [LeetCode](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | 25 Sept 2026 | 06:22 pm |
 | 16 | [Majority Element](./LeetCode/Easy/Majority%20Element) | [LeetCode](https://leetcode.com/problems/majority-element/) | Easy | 28 Sept 2026 | 10:35 pm |
+| 17 | [Number of Substrings Containing All Three Characters](./LeetCode/Medium/Number%20of%20Substrings%20Containing%20All%20Three%20Characters) | [LeetCode](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | Medium | 30 Sept 2026 | 06:23 pm |

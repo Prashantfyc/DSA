@@ -1,12 +1,12 @@
 {
-  "totalSolved": 16,
+  "totalSolved": 17,
   "currentStreak": 1,
   "maxStreak": 6,
-  "lastSyncDate": "2026-09-28",
+  "lastSyncDate": "2026-09-30",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 7,
-    "medium": 8,
+    "medium": 9,
     "hard": 1,
     "basic": 0
   },
@@ -26,7 +26,8 @@
     "LeetCode_Longest_Palindromic_Substring": true,
     "LeetCode_Remove_Outermost_Parentheses": true,
     "LeetCode_String_to_Integer_(atoi)": true,
-    "LeetCode_Majority_Element": true
+    "LeetCode_Majority_Element": true,
+    "LeetCode_Number_of_Substrings_Containing_All_Three_Characters": true
   },
   "activityHistory": {
     "2026-08-31": 1,
@@ -43,9 +44,10 @@
     "2026-09-19": 1,
     "2026-09-24": 1,
     "2026-09-25": 1,
-    "2026-09-28": 1
+    "2026-09-28": 1,
+    "2026-09-30": 1
   },
   "todayProblems": [
-    "Majority Element"
+    "Number of Substrings Containing All Three Characters"
   ]
 }
