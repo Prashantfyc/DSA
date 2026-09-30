@@ -17,3 +17,4 @@
 | 15 | [String to Integer (atoi)](./LeetCode/Medium/String%20to%20Integer%20(atoi)) | [LeetCode](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | 25 Sept 2026 | 06:22 pm |
 | 16 | [Majority Element](./LeetCode/Easy/Majority%20Element) | [LeetCode](https://leetcode.com/problems/majority-element/) | Easy | 28 Sept 2026 | 10:35 pm |
 | 17 | [Number of Substrings Containing All Three Characters](./LeetCode/Medium/Number%20of%20Substrings%20Containing%20All%20Three%20Characters) | [LeetCode](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | Medium | 30 Sept 2026 | 06:23 pm |
+| 18 | [Count Number of Nice Subarrays](./LeetCode/Medium/Count%20Number%20of%20Nice%20Subarrays) | [LeetCode](https://leetcode.com/problems/count-number-of-nice-subarrays/) | Medium | 30 Sept 2026 | 10:38 pm |
