@@ -1,12 +1,12 @@
 {
-  "totalSolved": 19,
+  "totalSolved": 20,
   "currentStreak": 1,
   "maxStreak": 6,
-  "lastSyncDate": "2026-10-03",
+  "lastSyncDate": "2026-10-05",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 7,
-    "medium": 11,
+    "medium": 12,
     "hard": 1,
     "basic": 0
   },
@@ -29,7 +29,8 @@
     "LeetCode_Majority_Element": true,
     "LeetCode_Number_of_Substrings_Containing_All_Three_Characters": true,
     "LeetCode_Count_Number_of_Nice_Subarrays": true,
-    "LeetCode_Generate_Parentheses": true
+    "LeetCode_Generate_Parentheses": true,
+    "LeetCode_Combination_Sum": true
   },
   "activityHistory": {
     "2026-08-31": 1,
@@ -48,9 +49,10 @@
     "2026-09-25": 1,
     "2026-09-28": 1,
     "2026-09-30": 2,
-    "2026-10-03": 1
+    "2026-10-03": 1,
+    "2026-10-05": 1
   },
   "todayProblems": [
-    "Generate Parentheses"
+    "Combination Sum"
   ]
 }
