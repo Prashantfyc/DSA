@@ -1,12 +1,12 @@
 {
-  "totalSolved": 20,
+  "totalSolved": 21,
   "currentStreak": 1,
   "maxStreak": 6,
-  "lastSyncDate": "2026-10-05",
+  "lastSyncDate": "2026-10-10",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 7,
-    "medium": 12,
+    "medium": 13,
     "hard": 1,
     "basic": 0
   },
@@ -30,7 +30,8 @@
     "LeetCode_Number_of_Substrings_Containing_All_Three_Characters": true,
     "LeetCode_Count_Number_of_Nice_Subarrays": true,
     "LeetCode_Generate_Parentheses": true,
-    "LeetCode_Combination_Sum": true
+    "LeetCode_Combination_Sum": true,
+    "LeetCode_Word_Search": true
   },
   "activityHistory": {
     "2026-08-31": 1,
@@ -50,9 +51,10 @@
     "2026-09-28": 1,
     "2026-09-30": 2,
     "2026-10-03": 1,
-    "2026-10-05": 1
+    "2026-10-05": 1,
+    "2026-10-10": 1
   },
   "todayProblems": [
-    "Combination Sum"
+    "Word Search"
   ]
 }
