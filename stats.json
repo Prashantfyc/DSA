@@ -1,11 +1,11 @@
 {
-  "totalSolved": 21,
+  "totalSolved": 22,
   "currentStreak": 1,
   "maxStreak": 6,
-  "lastSyncDate": "2026-10-10",
+  "lastSyncDate": "2026-10-18",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 7,
+    "easy": 8,
     "medium": 13,
     "hard": 1,
     "basic": 0
@@ -31,7 +31,8 @@
     "LeetCode_Count_Number_of_Nice_Subarrays": true,
     "LeetCode_Generate_Parentheses": true,
     "LeetCode_Combination_Sum": true,
-    "LeetCode_Word_Search": true
+    "LeetCode_Word_Search": true,
+    "LeetCode_Intersection_of_Two_Linked_Lists": true
   },
   "activityHistory": {
     "2026-08-31": 1,
@@ -52,9 +53,10 @@
     "2026-09-30": 2,
     "2026-10-03": 1,
     "2026-10-05": 1,
-    "2026-10-10": 1
+    "2026-10-10": 1,
+    "2026-10-18": 1
   },
   "todayProblems": [
-    "Word Search"
+    "Intersection of Two Linked Lists"
   ]
 }

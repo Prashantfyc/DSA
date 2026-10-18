@@ -21,3 +21,4 @@
 | 19 | [Generate Parentheses](./LeetCode/Medium/Generate%20Parentheses) | [LeetCode](https://leetcode.com/problems/generate-parentheses/) | Medium | 03 Oct 2026 | 06:42 pm |
 | 20 | [Combination Sum](./LeetCode/Medium/Combination%20Sum) | [LeetCode](https://leetcode.com/problems/combination-sum/) | Medium | 05 Oct 2026 | 07:22 pm |
 | 21 | [Word Search](./LeetCode/Medium/Word%20Search) | [LeetCode](https://leetcode.com/problems/word-search/) | Medium | 10 Oct 2026 | 06:45 pm |
+| 22 | [Intersection of Two Linked Lists](./LeetCode/Easy/Intersection%20of%20Two%20Linked%20Lists) | [LeetCode](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | 18 Oct 2026 | 02:44 pm |
