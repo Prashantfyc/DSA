@@ -1,12 +1,12 @@
 {
-  "totalSolved": 22,
+  "totalSolved": 23,
   "currentStreak": 1,
   "maxStreak": 6,
-  "lastSyncDate": "2026-10-18",
+  "lastSyncDate": "2026-10-21",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 8,
-    "medium": 13,
+    "medium": 14,
     "hard": 1,
     "basic": 0
   },
@@ -32,7 +32,8 @@
     "LeetCode_Generate_Parentheses": true,
     "LeetCode_Combination_Sum": true,
     "LeetCode_Word_Search": true,
-    "LeetCode_Intersection_of_Two_Linked_Lists": true
+    "LeetCode_Intersection_of_Two_Linked_Lists": true,
+    "LeetCode_Minimum_Operations_to_Sort_a_String": true
   },
   "activityHistory": {
     "2026-08-31": 1,
@@ -54,9 +55,10 @@
     "2026-10-03": 1,
     "2026-10-05": 1,
     "2026-10-10": 1,
-    "2026-10-18": 1
+    "2026-10-18": 1,
+    "2026-10-21": 1
   },
   "todayProblems": [
-    "Intersection of Two Linked Lists"
+    "Minimum Operations to Sort a String"
   ]
 }
