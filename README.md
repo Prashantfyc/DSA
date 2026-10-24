@@ -23,3 +23,4 @@
 | 21 | [Word Search](./LeetCode/Medium/Word%20Search) | [LeetCode](https://leetcode.com/problems/word-search/) | Medium | 10 Oct 2026 | 06:45 pm |
 | 22 | [Intersection of Two Linked Lists](./LeetCode/Easy/Intersection%20of%20Two%20Linked%20Lists) | [LeetCode](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | 18 Oct 2026 | 02:44 pm |
 | 23 | [Minimum Operations to Sort a String](./LeetCode/Medium/Minimum%20Operations%20to%20Sort%20a%20String) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | Medium | 21 Oct 2026 | 01:53 pm |
+| 24 | [Count Days Spent Together](./LeetCode/Easy/Count%20Days%20Spent%20Together) | [LeetCode](https://leetcode.com/problems/count-days-spent-together/) | Easy | 24 Oct 2026 | 06:26 pm |
